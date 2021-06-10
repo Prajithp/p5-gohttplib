@@ -41,4 +41,6 @@ $route->add('GET', '/', sub {
 $app->run();
 ```
 
-
+## References & Credit
+* [github.com/shazow/gohttplib.git](https://github.com/shazow/gohttplib.git)
+* [github.com/PerlFFI/FFI-Platypus](https://github.com/PerlFFI/FFI-Platypus)
